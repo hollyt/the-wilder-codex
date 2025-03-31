@@ -1,0 +1,8 @@
+## Interface: 100007
+## Title: The Wilder Codex
+## Author: Leficeste
+## Version: 1.0
+## Notes: A mystical codex that reveals missing battle pets in your current zone.
+## SavedVariables: TheWilderCodexDB
+
+TheWilderCodex.lua
